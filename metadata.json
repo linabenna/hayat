@@ -1,0 +1,8 @@
+{
+  "name": "HAYAT - Family Government Advisor",
+  "description": "A comprehensive family government AI advisor for UAE residents, managing residency, compliance, and family well-being through intelligent agents.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
